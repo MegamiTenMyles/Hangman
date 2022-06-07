@@ -1,0 +1,22 @@
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(250, 234, 234);
+    margin: auto;
+}
+
+#heading {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 7rem;
+
+}
+
+#button {
+    background-color: rgb(0, 113, 148);
+    margin: 0.2rem;
+    padding: .7rem 1.9rem;
+}
